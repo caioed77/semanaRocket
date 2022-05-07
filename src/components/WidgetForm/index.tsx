@@ -51,7 +51,7 @@ export function WidgetForm(){
                 />
             )}
            
-            <footer className="text-neutral-400">
+            <footer className="text-neutral-400text-xs text-neutral-400">
                 Feito pelas equipes tabajara <a className="underline underline-offset-2" href="https://www.linkedin.com/in/caio-eduardo-ba78601b3/">CaioEd77</a> 
                
             </footer>
